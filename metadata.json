@@ -1,0 +1,6 @@
+{
+  "name": "Meme Architect",
+  "description": "A high-end SaaS tool for professionals to build LinkedIn authority through high-status, relatable humor and cinematic memes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
